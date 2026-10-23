@@ -123,5 +123,5 @@ https://v1ct0r11.github.io/kr1-html-css-shop/
 - `site-footer` — подвал сайта.
 
 ## Текущий статус
-
+  
 Закончена практика 5
